@@ -34,10 +34,10 @@ void loop() {
   // Aggiungiamo un'etichetta per rendere la lettura immediata
   if (valDigitale == 1) {
     Serial.println("  -> (Rilevato SCURO/NERO)");
-    digitalWrite(ledPin, LOW);
+    digitalWrite(ledPin, HIGH);
   } else {
     Serial.println("  -> (Rilevato CHIARO/BIANCO)");
-    digitalWrite(ledPin, HIGH);
+    digitalWrite(ledPin, LOW);
   }
 
   // Pausa di 250ms per non far scorrere i numeri troppo velocemente
