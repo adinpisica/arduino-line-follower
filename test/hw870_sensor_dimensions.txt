@@ -1,0 +1,27 @@
+Module outer perimeter outline shape: rectangle
+Module overall length (long side): 37,18 mm
+Module overall width (short side): 13,88 mm
+Module overall height (maximum external): 16,12 mm
+Module overall height (minimum external): 10,7 mm
+Module color: blue
+Module weight (bare module): 
+
+PCB nominal length (X): 30,96mm
+PCB nominal width (Y): 13,85mm
+PCB finished thickness (total): 1,92 mm
+PCB component-side maximum component height (top): 6,01 mm
+PCB component-side maximum component height (bottom): 11,38 mm
+
+Number of mounting holes: 1
+Mounting hole diameter: 3,00 mm
+Distance from mounting hole center to board edge (min): 5,41 mm
+
+Number of connector pin(s): 4
+Connector Shape: Rounder 90 degrees
+
+Keepout margin from PCB edge: 14,00 mm
+
+Measurement method: caliper
+Measurement temperature: 23 C
+Measurement units filled in: mm
+Tolerance: 0 mm ≤ dimension ≤ 100 mm → ±0,02 mm; 100 mm < dimension ≤ 150 mm → ±0,05 mm
