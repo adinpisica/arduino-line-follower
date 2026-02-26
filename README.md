@@ -9,7 +9,8 @@ Il sistema permette al robot di seguire autonomamente una linea nera su superfic
 ## Contesto del progetto
 - **Istituto:** [Cigna-Baruffi-Garelli](https://www.cigna-baruffi-garelli.edu.it/)
 - **Plesso:** Cigna  
-- **Docente:** Davide Bertolino  
+- **Docente:** Davide Bertolino
+- **Classe:** 3AEE (A.S. 2025/2026)
 - **Tipologia:** Progetto scolastico
 
 ## Contributors
