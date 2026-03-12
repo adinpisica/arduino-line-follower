@@ -1,6 +1,6 @@
 // ================================================================
 //  Progetto : Line Follower Robot
-//  File     : dev/main.ino
+//  File     : dev/main_esp32.ino
 //  Autori   : Adin PISICA, Filippo MURU
 //  Classe   : 3AEE  –  A.S. 2025/2026
 //  Istituto : Cigna-Baruffi-Garelli  (plesso Cigna)
